@@ -1,0 +1,6 @@
+To successfully run this notebook you will need the following requirements:
+
+requests packaged needs to be installed if you are not using python through anaconda
+
+
+
